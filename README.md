@@ -4,8 +4,6 @@
 
 # LLM API Proxy
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rxliuli)
-
 ## Introduction
 
 Provides the same proxy OpenAI API and Ollama API interface for different LLM models, and supports deployment to any Edge Runtime environment.
